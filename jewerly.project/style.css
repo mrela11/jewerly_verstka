@@ -1,0 +1,17 @@
+.html {
+    box-sizing: border-box;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+.main_container {
+    width: 1440px;
+    height: 5031px;
+}
+
+.logo_a {
+    width: 253px;
+    height: 53px;
+}
